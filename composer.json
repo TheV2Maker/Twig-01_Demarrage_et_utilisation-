@@ -1,0 +1,17 @@
+{
+    "name": "thomas/01",
+    "autoload": {
+        "psr-4": {
+            "Thomas\\01\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "TheV2Maker",
+            "email": "tj.freedom777@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.3"
+    }
+}
